@@ -1,1 +1,4 @@
-npm install firebase
+- name: install firebase
+  run: npm install firebase
+- name: firebase init
+  run: firebase init
